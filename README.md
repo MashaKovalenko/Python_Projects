@@ -1,10 +1,12 @@
 # Python_Projects
 This program starts by displaying (printing) the following menu, and waits for the user’s choice:
 Welcome to the Bookmark Manager:
+
 (1) Add a bookmark
 (2) Statistics
 (3) View bookmarks
 (4) Exit Program
+
 When the user chooses option (1), the program asks the user to enter three information: the webpage link, 
 bookmark title, category (a choice between Wishlist, Work, Playlist, Miscellaneous). When the user presses 
 enter, the program saves the bookmark in a text file according to the category chosen This means if the user 
